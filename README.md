@@ -122,6 +122,7 @@
 - [比特币0.1](https://github.com/fkysly/bitcoin0.1.0) 最原始的比特币代码
 - [Quorum](https://github.com/jpmorganchase/quorum) 来自JP Morgan基于Go-Ethereum数据隐私加强的以太坊实现
 - [FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS) 来自金链盟的聚焦金融行业的区块链底层平台
+- [RustChain](https://github.com/Scottcjn/Rustchain) RustChain基于Rust的Proof-of-Antiquity区块链，支持Ed25519共识和GPU硬件认证
 - [Presto-Ethereum](https://github.com/xiaoyao1991/presto-ethereum) 以太坊增加Presto的SQL访问能力
 - [IPFS](https://github.com/ipfs/go-ipfs) IPFS的GO语言实现 [原理](https://github.com/ipfs/ipfs)
 
